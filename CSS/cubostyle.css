@@ -20,6 +20,10 @@ html, body {
      height: 200px;
      transform-style: preserve-3d;
      animation: rotation 20s infinite alternate;
+     font-family: 'Sriracha', cursive;
+     font-size: 70px;
+     align-content: center;
+ 
   }
   
   @keyframes rotation {
