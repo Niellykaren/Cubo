@@ -43,16 +43,16 @@ html, body {
   }
   
   .cube__face--right {
-    background: blue;
+    background: rgb(255, 0, 140);
     transform: translateX(100px) rotateY(90deg);
   }
   
   .cube__face--back {
-    background: green;
+    background: rgb(128, 3, 211);
     transform: translateZ(-100px);
   }
   
   .cube__face--front {
-    background: yellow;
+    background:orange;
     transform: translateZ(100px);
   }
